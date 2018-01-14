@@ -1,5 +1,6 @@
 .env
 .serverless
 .vagrant
+vendor
 *.so
 *.zip
